@@ -1,3 +1,14 @@
+# Simple Interest Calculator
+
+## Description
+A basic calculator to compute simple interest using the formula:
+\[ SI = (P \cdot R \cdot T) / 100 \]
+
+## Features
+- Input principal, rate of interest, and time.
+- Outputs the calculated simple interest.
+
+
 # intrestcalculator
 simple intrest project with readme.md
 # Simple Interest Calculator
